@@ -1,0 +1,2 @@
+# sticky
+static web page
